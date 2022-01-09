@@ -1,0 +1,10 @@
+.middle{
+    padding: 5%;
+    margin-left: 20%;
+    margin-right: 10%;
+}
+.middle1{
+    display :flex;
+    flex-direction: row;
+
+}
